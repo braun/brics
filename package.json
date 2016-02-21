@@ -1,0 +1,25 @@
+{
+  "name": "bricms",
+  "version": "1.0.0",
+  "description": "Brauns content management system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braun/brics.git"
+  },
+  "keywords": [
+    "CMS"
+  ],
+  "author": "Stanislav Kunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braun/brics/issues"
+  },
+  "homepage": "https://github.com/braun/brics#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
